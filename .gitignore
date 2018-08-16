@@ -10,6 +10,17 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+target/
+bower_components/
+node_modules/
+dist/
+.idea/
+.tmp/
+.project
+.classpath
+.settings
+.metadata/
+
 # Package Files #
 *.jar
 *.war
